@@ -58,7 +58,7 @@
 
 ---
 
-## 📫 Connect With Me
+
 ## 📫 Connect With Me
 <p align="center">
   <!-- Discord -->
@@ -93,7 +93,7 @@
 
 ## ✨ Dynamic Message
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F70000&center=true&vCenter=true&width=500&lines=👉+Follow+and+⭐+my+repositories!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F70000&center=true&vCenter=true&width=500&lines=👉+Follow+for+more+and+don't+forget+to+⭐+my+repositories!" />
 </p>
 
 ✨ *Crafting beautiful, reliable, and deeply personalized digital experiences.*
