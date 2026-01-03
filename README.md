@@ -59,12 +59,32 @@
 ---
 
 ## 📫 Connect With Me
+## 📫 Connect With Me
 <p align="center">
-  <a href="https://discordapp.com/users/divyanshisoni12"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="40" height="40"/></a>
-  <a href="https://linkedin.com/in/divyanshi-soni12"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/></a>
-  <a href="https://github.com/Divyanshi12coder"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
-  <a href="https://leetcode.com/u/divyanshi12coder/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
+  <!-- Discord -->
+  <a href="https://discordapp.com/users/divyanshisoni12">
+    <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord"/>
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/divyanshi-soni12">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.icons8.com/color/48/gmail.png" alt="Gmail"/>
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/Divyanshi12coder">
+    <img src="https://img.icons8.com/material-outlined/48/github.png" alt="GitHub"/>
+  </a>
+  
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/divyanshi12coder/">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-compete-with-other-talents-logo-color-tal-revivo.png" alt="LeetCode"/>
+  </a>
 </p>
 
 ---
