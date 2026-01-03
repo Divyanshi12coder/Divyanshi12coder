@@ -4,18 +4,21 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/divyanshi"><img src="https://img.shields.io/github/followers/divyanshi?label=Follow&style=social" alt="GitHub Followers"></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/Divyanshi12coder"><img src="https://img.shields.io/github/followers/Divyanshi12coder?label=Follow&style=social" alt="GitHub Followers"></a>
+  <a href="https://linkedin.com/in/divyanshi-soni12"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-me-red?style=flat&logo=gmail" alt="Email"></a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently building a **luxury‑grade AI Fashion Stylist App** with wardrobe uploads, auto‑tagging, and personalized outfit recommendations.  
-- 🎨 Passionate about **premium UI/UX**, cinematic animations, and interactive 3D scenes.  
-- 💻 Skilled in **Flutter, React, Firebase, GSAP, Three.js, React Three Fiber, Postprocessing**.  
-- 🌟 My ambition: Launch a flagship AI fashion platform that blends creativity, personalization, and seamless multi‑platform performance.  
+- 👩‍💻 **Founder‑type visionary**: proactive, resilient, and relentlessly detail‑oriented.  
+- 🛠️ **Multi‑platform architect**: building scalable apps across Android, iOS, and Web with clean, modern codebases.  
+- 🎨 **Creative technologist**: passionate about cinematic animations, interactive 3D scenes, and luxury‑grade UI/UX.  
+- 🔧 **Problem solver**: resourceful in package management, error resolution, and workflow optimization.  
+- 👗 **AI fashion innovator**: currently building a flagship AI stylist app with wardrobe uploads, auto‑tagging, and personalized outfit recommendations.  
+- ☕ Fueled by **coffee**, debugged by **code**, and comforted by **white sauce pasta** 🍝.  
+- 🌟 Driven by the ambition to launch a **beautiful, deeply personalized, and reliable AI fashion platform** that blends creativity with technology.  
 
 ---
 
@@ -43,30 +46,39 @@
 
 ---
 
-## 🎯 Current Goals
-- ✨ Build a **scalable backend foundation** for AI features.  
-- 🖼️ Integrate **cinematic animations** and **3D visuals** into my portfolio.  
-- 🌐 Create a **stylish React/Vite portfolio site** to showcase my brand.  
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshi&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Divyanshi12coder&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshi12coder&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshi12coder&theme=radical" alt="GitHub Contribution Graph" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://discordapp.com/users/divyanshisoni12"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/divyanshi-soni12"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:divya1205g@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Divyanshi12coder"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://https://leetcode.com/u/divyanshi12coder/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://discordapp.com/users/divyanshisoni12"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="40" height="40"/></a>
+  <a href="https://linkedin.com/in/divyanshi-soni12"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/></a>
+  <a href="https://github.com/Divyanshi12coder"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
+  <a href="https://leetcode.com/u/divyanshi12coder/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
 </p>
 
 ---
+
+## 🎯 Fun Zone
+> “Coffee keeps my code alive ☕,  
+> Bugs fear my debugging stare 👩‍💻,  
+> And white sauce pasta is my ultimate deploy snack 🍝.”
+
+---
+
+## ✨ Dynamic Message
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F70000&center=true&vCenter=true&width=500&lines=👉+Follow+and+⭐+my+repositories!" />
+</p>
 
 ✨ *Crafting beautiful, reliable, and deeply personalized digital experiences.*
