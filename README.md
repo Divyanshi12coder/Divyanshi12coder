@@ -80,11 +80,6 @@
   <a href="https://github.com/Divyanshi12coder">
     <img src="https://img.icons8.com/material-outlined/48/github.png" alt="GitHub"/>
   </a>
-  
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/divyanshi12coder/">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-compete-with-other-talents-logo-color-tal-revivo.png" alt="LeetCode"/>
-  </a>
 </p>
 
 ---
