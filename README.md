@@ -72,7 +72,7 @@
   </a>
   
   <!-- Gmail -->
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-divya1205g@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail.png" alt="Gmail"/>
   </a>
   
