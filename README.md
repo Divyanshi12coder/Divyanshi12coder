@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/Divyanshi12coder"><img src="https://img.shields.io/github/followers/Divyanshi12coder?label=Follow&style=social" alt="GitHub Followers"></a>
   <a href="https://linkedin.com/in/divyanshi-soni12"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-me-red?style=flat&logo=gmail" alt="Email"></a>
+  <a href="mailto:divya1205g@gmail.com"><img src="https://img.shields.io/badge/Email-me-red?style=flat&logo=gmail" alt="Email"></a>
 </p>
 
 ---
@@ -72,7 +72,7 @@
   </a>
   
   <!-- Gmail -->
-  <a href="mailto:your-divya1205g@gmail.com">
+  <a href="mailto:divya1205g@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail.png" alt="Gmail"/>
   </a>
   
