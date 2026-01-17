@@ -26,22 +26,30 @@
 
 ### 🖥️ Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,java,c,python,r" height="48"/>
 </p>
 
 ### ⚙️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,threejs,gsap,vite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,express,flutter" height="48"/>
+  <img src="https://img.icons8.com/color/48/flutterflow.png" alt="FlutterFlow"/>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" height="48"/>
+  <img src="https://img.icons8.com/color/48/scikit-learn.png" alt="Scikit-Learn"/>
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="48"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,firebase" height="48"/>
 </p>
 
 ### 🛠️ Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,figma" />
-</p>
-
-### 🚀 Deployment & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,firebase" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,html,css" height="48"/>
 </p>
 
 ---
