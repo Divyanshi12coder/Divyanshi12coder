@@ -31,10 +31,22 @@
 
 ### ⚙️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,express,flutter" height="48"/>
-  <img src="https://img.icons8.com/color/48/flutterflow.png" alt="FlutterFlow"/>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy" height="48"/>
-  <img src="https://img.icons8.com/color/48/scikit-learn.png" alt="Scikit-Learn"/>
+  <!-- Node.js -->
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
+  <!-- React -->
+  <img src="https://skillicons.dev/icons?i=react" height="48"/>
+  <!-- Express -->
+  <img src="https://img.icons8.com/ios/50/express-js.png" alt="Express"/>
+  <!-- Flutter -->
+  <img src="https://skillicons.dev/icons?i=flutter" height="48"/>
+  <!-- FlutterFlow -->
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-flutterflow-low-code-platform-for-building-cross-platform-apps-logo-color-tal-revivo.png" alt="FlutterFlow"/>
+  <!-- Pandas -->
+  <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas"/>
+  <!-- NumPy -->
+  <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy"/>
+  <!-- Scikit-Learn -->
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-scikit-learn-machine-learning-library-for-python-logo-color-tal-revivo.png" alt="Scikit-Learn"/>
 </p>
 
 ### 🗄️ Databases
