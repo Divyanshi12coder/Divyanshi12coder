@@ -32,29 +32,26 @@
 ### ⚙️ Frameworks & Libraries
 <p align="center">
   <!-- Node.js -->
-  <img src="https://skillicons.dev/icons?i=nodejs" height="48"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
   <!-- React -->
   <img src="https://skillicons.dev/icons?i=react" height="48"/>
   <!-- Express -->
-  <img src="https://skillicons.dev/icons?i=express" height="48"/>
+  <img src="https://img.icons8.com/ios/50/express-js.png" alt="Express"/>
   <!-- Flutter -->
   <img src="https://skillicons.dev/icons?i=flutter" height="48"/>
-  <!-- FlutterFlow (custom PNG) -->
-  <img src="https://raw.githubusercontent.com/Divyanshi12coder/assets/main/flutterflow.png" alt="FlutterFlow" height="48"/>
+  <!-- FlutterFlow -->
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-flutterflow-low-code-platform-for-building-cross-platform-apps-logo-color-tal-revivo.png" alt="FlutterFlow"/>
   <!-- Pandas -->
-  <img src="https://raw.githubusercontent.com/Divyanshi12coder/assets/main/pandas.png" alt="Pandas" height="48"/>
+  <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas"/>
   <!-- NumPy -->
-  <img src="https://raw.githubusercontent.com/Divyanshi12coder/assets/main/numpy.png" alt="NumPy" height="48"/>
-  <!-- Scikit-Learn (custom PNG) -->
-  <img src="https://raw.githubusercontent.com/Divyanshi12coder/assets/main/scikit-learn.png" alt="Scikit-Learn" height="48"/>
+  <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy"/>
+  <!-- Scikit-Learn -->
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-scikit-learn-machine-learning-library-for-python-logo-color-tal-revivo.png" alt="Scikit-Learn"/>
 </p>
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="48"/>
-  <!-- MySQL (custom PNG) -->
-  <img src="https://raw.githubusercontent.com/Divyanshi12coder/assets/main/mysql.png" alt="MySQL" height="48"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="48"/>
 </p>
 
 ### ☁️ Cloud & DevOps
