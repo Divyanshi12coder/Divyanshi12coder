@@ -105,7 +105,7 @@
 > Bugs fear my debugging stare 👩‍💻,  
 > And white sauce pasta is my ultimate deploy snack 🍝.”
 
----
+----
 
   ## ✨ Dynamic Message
 <p align="center">
