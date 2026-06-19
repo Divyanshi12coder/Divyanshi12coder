@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Divyanshi</h1>
-<h3 align="center">Visionary Founder | Multi‑Platform App Architect | AI Fashion Innovator</h3>
+<h3 align="center">Visionary Founder | Multi‑Platform App Architect | Data Scientist </h3>
 
 <!-- Badges -->
 <p align="center">
@@ -15,8 +15,7 @@
 - 👩‍💻 **Founder‑type visionary**: proactive, resilient, and relentlessly detail‑oriented.  
 - 🛠️ **Multi‑platform architect**: building scalable apps across Android, iOS, and Web with clean, modern codebases.  
 - 🎨 **Creative technologist**: passionate about cinematic animations, interactive 3D scenes, and luxury‑grade UI/UX.  
-- 🔧 **Problem solver**: resourceful in package management, error resolution, and workflow optimization.  
-- 👗 **AI fashion innovator**: currently building a flagship AI stylist app with wardrobe uploads, auto‑tagging, and personalized outfit recommendations.  
+- 🔧 **Problem solver**: resourceful in package management, error resolution, and workflow optimization.    
 - ☕ Fueled by **coffee**, debugged by **code**, and comforted by **white sauce pasta** 🍝.  
 - 🌟 Driven by the ambition to launch a **beautiful, deeply personalized, and reliable AI fashion platform** that blends creativity with technology.  
 
