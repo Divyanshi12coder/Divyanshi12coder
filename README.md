@@ -102,7 +102,7 @@
 ## 🎯 Fun Zone
 > “Coffee keeps my code alive ☕,  
 > Bugs fear my debugging stare 👩‍💻,  
-> And white sauce pasta is my ultimate deploy snack 🍝.”
+> And white sauce pasta is my ultimate deploy snack 🍝.”  
 
 ----
 
