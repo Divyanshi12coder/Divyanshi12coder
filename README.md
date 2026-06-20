@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Divyanshi</h1>
-<h3 align="center">Visionary Founder | Multi‑Platform App Architect | Data Scientist </h3>
+<h3 align="center">Visionary Founder | Multi‑Platform App Architect | Data Scientist </h3>  
 
 <!-- Badges -->
 <p align="center">
