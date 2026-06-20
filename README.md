@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 - 👩‍💻 **Founder‑type visionary**: proactive, resilient, and relentlessly detail‑oriented.  
 - 🛠️ **Multi‑platform architect**: building scalable apps across Android, iOS, and Web with clean, modern codebases.  
 - 🎨 **Creative technologist**: passionate about cinematic animations, interactive 3D scenes, and luxury‑grade UI/UX.  
