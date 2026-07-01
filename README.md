@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Divyanshi</h1>
-<h3 align="center">Visionary Founder | Multi‑Platform App Architect | Data Scientist </h3>  
+<h3 align="center">Visionary Founder | Multi‑Platform App Architect | Data Science & MLOps Enthusiast </h3>  
 
 <!-- Badges -->
 <p align="center">
@@ -17,8 +17,9 @@
 - 🎨 **Creative technologist**: passionate about cinematic animations, interactive 3D scenes, and luxury‑grade UI/UX.  
 - 🔧 **Problem solver**: resourceful in package management, error resolution, and workflow optimization.    
 - ☕ Fueled by **coffee**, debugged by **code**, and comforted by **white sauce pasta** 🍝.  
-- 🌟 Driven by the ambition to launch a **beautiful, deeply personalized, and reliable AI fashion platform** that blends creativity with technology.  
-
+- 🌟 Driven by the ambition to launch a **beautiful, deeply personalized, and reliable AI fashion platform** that blends creativity with technology.
+- 👩🏼‍💻 AI/ML Builder **Crafting & Shipping Scalable Real-World AI Products**.  
+  
 ---
 
 ## 💻 Tech Stack
