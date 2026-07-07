@@ -25,7 +25,7 @@
 ## 🔧 Tech Stack
 
 ### 📊 Data Science
-- **Programming:** ![Python](https://img.icons8.com/color/48/000000/python.png), ![R](https://img.icons8.com/color/48/000000/r-programming.png), ![C](https://img.icons8.com/color/48/000000/c-programming.png)
+- **Programming:** ![Python](https://img.icons8.com/color/48/000000/python.png), ![R](https://img.icons8.com/color/48/000000/r-project.png), ![C](https://img.icons8.com/color/48/000000/c-programming.png)
 - **Libraries:** ![Pandas](https://img.icons8.com/color/48/000000/pandas.png), ![NumPy](https://img.icons8.com/color/48/000000/numpy.png), ![scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png)
 - **Visualization:** ![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png), ![Seaborn](https://img.icons8.com/color/48/000000/seaborn.png)
 
