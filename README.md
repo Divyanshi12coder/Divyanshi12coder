@@ -22,43 +22,22 @@
   
 ---
 
-## 💻 Tech Stack
+## 🔧 Tech Stack
 
-### 🖥️ Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,java,c,python,r" height="48"/>
-</p>
+### 📊 Data Science
+- **Programming:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white), ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+- **Libraries:** ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white), ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white), ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+- **Visualization:** ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white), ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white)
 
-### ⚙️ Frameworks & Libraries
-<p align="center">
-  <!-- Node.js -->
-  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
-  <!-- React -->
-  <img src="https://skillicons.dev/icons?i=react" height="48"/>
-  <!-- Express -->
-  <img src="https://img.icons8.com/ios/50/express-js.png" alt="Express"/>
-  <!-- Flutter -->
-  <img src="https://skillicons.dev/icons?i=flutter" height="48"/>
-  <!-- Pandas -->
-  <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas"/>
-  <!-- NumPy -->
-  <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy"/>
- </p>
+### 🌐 Full-Stack Web Development
+- **Front-End:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white), ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white), ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+- **Back-End:** ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white), ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white), ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+- **Deployment:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white), ![Heroku](https://img.shields.io/badge/-Heroku-430094?style=flat&logo=heroku&logoColor=white)
 
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="48"/>
-</p>
+### ⚙️ MLOps
+- **Pipeline Orchestration:** ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white), ![Kubeflow](https://img.shields.io/badge/-Kubeflow-326CE5?style=flat&logo=kubeflow&logoColor=white)
+- **Containerization:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white), ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,firebase" height="48"/>
-</p>
-
-### 🛠️ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,html,css" height="48"/>
-</p>
 
 ---
 
