@@ -26,13 +26,12 @@
 
 ### 📊 Data Science
 - **Programming:** ![Python](https://img.icons8.com/color/48/000000/python.png), ![R](https://img.icons8.com/color/48/000000/r-project.png), ![C](https://img.icons8.com/color/48/000000/c-programming.png)
-- **Libraries:** ![Pandas](https://img.icons8.com/color/48/000000/pandas.png), ![NumPy](https://img.icons8.com/color/48/000000/numpy.png), ![scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png)
-- **Visualization:** ![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png), ![Seaborn](https://img.icons8.com/color/48/000000/seaborn.png)
+- **Libraries:** ![Pandas](https://img.icons8.com/color/48/000000/pandas.png), ![NumPy](https://img.icons8.com/color/48/000000/numpy.png), ![scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png), ![Seaborn](https://img.icons8.com/color/48/000000/seaborn.png)
 
 ### 🌐 Full-Stack Web Development
 - **Front-End:** ![React](https://img.icons8.com/color/48/000000/react-native.png), ![HTML5](https://img.icons8.com/color/48/000000/html-5.png), ![CSS3](https://img.icons8.com/color/48/000000/css3.png), ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 - **Back-End:** ![Django](https://img.icons8.com/color/48/000000/django.png), ![Flask](https://img.icons8.com/color/48/000000/flask.png), ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-- **Deployment:** ![Docker](https://img.icons8.com/fluency/48/000000/docker.png), ![Heroku](https://img.icons8.com/color/48/000000/heroku.png), ![Vercel](https://img.icons8.com/color/48/000000/vercel.png), ![Render](https://img.icons8.com/color/48/000000/render.png)
+- **Deployment:** ![Docker](https://img.icons8.com/fluency/48/000000/docker.png), ![Heroku](https://img.icons8.com/color/48/000000/heroku.png), ![Versel](https://img.icons8.com/color/48/000000/vercel.png), ![Render](https://img.icons8.com/color/48/000000/render.png)
 
 ### ⚙️ MLOps
 - **Pipeline Orchestration:** ![Apache Airflow](https://img.icons8.com/color/48/000000/apache-airflow.png), ![Kubeflow](https://img.icons8.com/color/48/000000/kubeflow.png)
