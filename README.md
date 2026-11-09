@@ -1,113 +1,174 @@
-<p align="center">
-  <img src="assets/neural-header.svg" width="100%" alt="Divyanshi — Neural Network Banner">
-</p>
+<div align="center">
 
-<h1 align="center">Hi, I'm Divyanshi 👋</h1>
+<img src="assets/neural-header.svg" width="100%" alt="Divyanshi — Full Stack Developer, Data Scientist and AI/ML Enthusiast"/>
 
-<h3 align="center">
-Full Stack Developer | Data Scientist | AI/ML Enthusiast | Data Analyst
-</h3>
+<br/>
 
-<p align="center">
-Building intelligent solutions, developing meaningful products, and turning ideas into reality through technology.
-</p>
+<a href="https://github.com/Divyanshi12coder">
+  <img src="https://komarev.com/ghpvc/?username=Divyanshi12coder&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile views"/>
+</a>
+<a href="https://github.com/Divyanshi12coder?tab=followers">
+  <img src="https://img.shields.io/github/followers/Divyanshi12coder?style=for-the-badge&color=134E4A&labelColor=101B19&label=FOLLOWERS" alt="Followers"/>
+</a>
 
----
+### Full Stack Developer · Data Scientist · AI/ML Enthusiast · Data Analyst
 
-## ✦ About Me
+**I build applications, explore intelligent systems, and turn data into useful insights.**
 
-I'm a developer and technology enthusiast passionate about building practical applications, exploring artificial intelligence, and solving real-world problems through technology.
-
-- 💻 Full Stack Developer interested in end-to-end product development.
-- 🧠 Exploring Artificial Intelligence, Machine Learning and Data Science.
-- 📊 Interested in data analytics, intelligent systems and data-driven solutions.
-- 🚀 Entrepreneur with a passion for building ideas into ventures.
-- 🌱 Constantly learning, experimenting and building.
+</div>
 
 ---
 
-## ✦ Founder — OmniOps Digital
+## ABOUT ME
 
-<p align="center">
-  <img src="assets/omniops-founder-banner.svg" width="100%" alt="Founder of OmniOps Digital">
-</p>
+I'm **Divyanshi** — a multidisciplinary developer interested in building useful products at the intersection of software engineering, artificial intelligence and data.
 
-I'm the **Founder of OmniOps Digital**, a digital growth venture bringing together technology, strategy, creative execution and marketing.
+I work across frontend and backend development, explore machine learning and data science, and enjoy using analytical thinking to solve practical problems.
 
-My entrepreneurial journey is driven by the idea of building solutions that help businesses establish, strengthen and grow their digital presence.
-
-<p align="center">
-  <a href="https://www.instagram.com/omniops_digital/">Instagram</a>
-  &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/company/omniops-digital/">LinkedIn</a>
-  &nbsp; • &nbsp;
-  <a href="mailto:omniopsdigital@gmail.com">Email</a>
-</p>
+- **Full Stack Development:** Building end-to-end web applications and APIs.
+- **AI & Machine Learning:** Exploring intelligent applications and model-driven solutions.
+- **Data Science & Analytics:** Working with data, patterns, analysis and visualisation.
+- **Entrepreneurship:** Founder of **OmniOps Digital**.
+- **Innovation:** Participating in technical competitions and collaborative problem-solving.
 
 ---
 
-## ✦ Achievements & Recognition
+<div align="center">
+  <img src="assets/omniops-founder-banner.svg" width="100%" alt="Founder of OmniOps Digital"/>
+</div>
 
-<p align="center">
-  <img src="assets/aerothon-banner.svg" width="100%" alt="Aerothon 2026 Finalist — IIT Indore in collaboration with HAL">
-</p>
+## FOUNDER — OMNIOPS DIGITAL
 
-<p align="center">
-  <img src="assets/isro-bah-banner.svg" width="100%" alt="Top 10 Team — ISRO BAH 2026">
-</p>
+**Building a digital solutions business from the ground up.**
 
----
+I'm the founder of **OmniOps Digital**, a digital solutions and marketing agency focused on helping businesses build, strengthen and grow their digital presence.
 
-## ✦ Selected Projects
+My role spans entrepreneurship, business development, digital strategy and the technology behind the solutions we deliver. I'm working to bring development, creative execution, marketing and AI-powered workflows together under one roof.
 
-A few projects and areas I've explored:
-
-| Project | Focus |
+| What we're building | Focus |
 |---|---|
-| **Finora AI** | AI-powered personal finance and financial workflows |
-| **PersonaTwin** | AI-powered persona project |
-| **Veritas Lens** | Fake news detection and information analysis |
-| **AI Crisis Early Warning** | Data-driven crisis prediction concepts |
-| **NeuroSonic** | AI and technology-focused project |
-| **RedOak Markets** | Financial technology and market-focused project |
+| **Web & Technology** | Website development, web experiences and custom digital solutions |
+| **Brand & Creative** | Branding, graphic design and visual communication |
+| **Digital Growth** | Social media management, digital strategy and performance marketing |
+| **AI & Automation** | AI-assisted workflows, automation and smarter business processes |
 
-Explore my repositories for more projects, experiments and implementations.
+**The founder's perspective:** identifying real business needs, translating them into practical digital solutions, and building a company with a long-term growth mindset.
+
+<div align="center">
+
+<a href="https://www.instagram.com/omniops_digital/">
+  <img src="https://img.shields.io/badge/OMNIOPS%20DIGITAL-Visit%20Instagram-0F766E?style=for-the-badge&logo=instagram&logoColor=F5F0E6&labelColor=101B19" alt="OmniOps Digital Instagram"/>
+</a>
+<a href="mailto:omniopsdigital@gmail.com">
+  <img src="https://img.shields.io/badge/Business%20Enquiries-Email-134E4A?style=for-the-badge&logo=gmail&logoColor=F5F0E6&labelColor=101B19" alt="OmniOps Digital email"/>
+</a>
+
+</div>
 
 ---
 
-## ✦ Tech Stack & Tools
+## ACHIEVEMENTS & RECOGNITION
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-163D38?style=for-the-badge&logo=python&logoColor=F5F0E6">
-  <img src="https://img.shields.io/badge/JavaScript-163D38?style=for-the-badge&logo=javascript&logoColor=F5F0E6">
-  <img src="https://img.shields.io/badge/React-163D38?style=for-the-badge&logo=react&logoColor=F5F0E6">
-  <img src="https://img.shields.io/badge/Node.js-163D38?style=for-the-badge&logo=nodedotjs&logoColor=F5F0E6">
-  <img src="https://img.shields.io/badge/FastAPI-163D38?style=for-the-badge&logo=fastapi&logoColor=F5F0E6">
-  <img src="https://img.shields.io/badge/SQL-163D38?style=for-the-badge&logo=postgresql&logoColor=F5F0E6">
-  <img src="https://img.shields.io/badge/Git-163D38?style=for-the-badge&logo=git&logoColor=F5F0E6">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:102C29,50:0F766E,100:8BBDB0&height=115&section=header&text=AEROTHON%20%2726&fontSize=34&fontColor=F5F0E6&fontAlignY=42&desc=FINALIST%20%7C%20IIT%20INDORE%20%C3%97%20HAL&descSize=15&descColor=F5F0E6&descAlignY=72" width="100%" alt="Aerothon 2026 finalist banner"/>
+
+Finalist at **Aerothon '26**, hosted at **IIT Indore** in collaboration with **Hindustan Aeronautics Limited (HAL)**.
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:102C29,50:0F766E,100:8BBDB0&height=115&section=header&text=ISRO%20BAH%20%2726&fontSize=34&fontColor=F5F0E6&fontAlignY=42&desc=AMONG%20THE%20TOP%2010%20TEAMS&descSize=15&descColor=F5F0E6&descAlignY=72" width="100%" alt="ISRO BAH 2026 Top 10 banner"/>
+
+Recognised among the **Top 10 teams** at **ISRO BAH '26**.
+
+</div>
+
+---
+
+## TECHNICAL TOOLKIT
+
+> Keep this section aligned with tools you have genuinely used and can discuss in an interview. Remove any badge that doesn't reflect your experience.
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" alt="Programming languages"/>
+</p>
+
+**Full Stack Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,tailwind" alt="Development technologies"/>
+</p>
+
+**AI, Machine Learning & Data**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="AI and machine learning tools"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
+
+**Databases, Tools & Deployment**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,git,github,docker,vscode,vercel,render,aws" alt="Databases, tools and deployment"/>
 </p>
 
 ---
 
-## ✦ GitHub Contribution Activity
+## SELECTED PROJECTS
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Divyanshi12coder/Divyanshi12coder/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake">
-</p>
+| Project | Overview | Area |
+|---|---|---|
+| **Finora AI** | Personal finance application with AI-oriented features | AI · FinTech |
+| **PersonaTwin** | Digital persona application exploring personalised AI interactions | AI · Software |
+| **Veritas Lens** | Fake-news detection and credibility analysis | NLP · AI/ML |
+| **NeuroSonic** | Intelligent technology and software project | AI · Software |
+| **RedOak Markets** | Financial technology application | FinTech |
+| **AI Crisis Early Warning** | Early-warning concept for crisis detection | AI/ML · Predictive systems |
 
----
+Explore the repositories for source code, implementation details and project documentation:
 
-## ✦ Let's Connect
-
-<p align="center">
-  <a href="https://github.com/Divyanshi12coder">
-    <img src="https://img.shields.io/badge/GitHub-163D38?style=for-the-badge&logo=github&logoColor=F5F0E6">
+<div align="center">
+  <a href="https://github.com/Divyanshi12coder?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-0F766E?style=for-the-badge&logo=github&logoColor=F5F0E6&labelColor=101B19" alt="Explore repositories"/>
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-163D38?style=for-the-badge&logo=linkedin&logoColor=F5F0E6">
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <i>Think. Build. Experiment. Evolve.</i>
-</p>
+---
+
+## GITHUB CONTRIBUTION ACTIVITY
+
+The contribution snake below is generated from your public GitHub contribution calendar by the included GitHub Actions workflow. The first image uses the teal palette; the dark variant is available for dark-mode readers.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Divyanshi12coder/Divyanshi12coder/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+## CONNECT
+
+<div align="center">
+
+<a href="https://github.com/Divyanshi12coder">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-101B19?style=for-the-badge&logo=github&logoColor=F5F0E6" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0F766E?style=for-the-badge&logo=linkedin&logoColor=F5F0E6" alt="LinkedIn"/>
+</a>
+<a href="mailto:omniopsdigital@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20touch-134E4A?style=for-the-badge&logo=gmail&logoColor=F5F0E6" alt="Email"/>
+</a>
+
+</div>
+
+<div align="center">
+
+**Build with curiosity. Solve with purpose. Grow through execution.**
+
+</div>
