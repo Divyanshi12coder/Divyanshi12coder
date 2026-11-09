@@ -1,73 +1,129 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090E17,50:172554,100:2563EB&height=230&section=header&text=DIVYANSHI&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Scientist%20%7C%20AI%2FML%20Enthusiast&descSize=15&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101B19,35:134E4A,70:0F766E,100:F5F0E6&height=230&section=header&text=DIVYANSHI&fontSize=68&fontColor=F5F0E6&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20DATA%20SCIENTIST%20%7C%20AI%2FML&descSize=14&descColor=E8DFC9&descAlignY=60&animation=fadeIn"/>
+
+<h3>Building Intelligent Systems | Engineering Solutions | Creating Impact</h3>
+
+<img src="https://komarev.com/ghpvc/?username=Divyanshi12coder&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS"/>
 
 <br>
 
-<a href="https://github.com/Divyanshi12coder">
-<img src="https://komarev.com/ghpvc/?username=Divyanshi12coder&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
-</a>
-
 <a href="https://github.com/Divyanshi12coder?tab=followers">
-<img src="https://img.shields.io/github/followers/Divyanshi12coder?style=for-the-badge&color=blue&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/followers/Divyanshi12coder?style=for-the-badge&color=134E4A&labelColor=101B19&label=FOLLOWERS"/>
 </a>
 
 <a href="https://github.com/Divyanshi12coder?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-Repositories-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-0F766E?style=for-the-badge&labelColor=101B19"/>
 </a>
-
-<h3>Building. Analyzing. Innovating.</h3>
-
-<p>
-Passionate about engineering intelligent systems, developing scalable applications and transforming data into meaningful insights.
-</p>
 
 </div>
 
 ---
 
-## 👩🏻‍💻 About Me
+## 👩🏻‍💻 ABOUT ME
 
-Hi, I'm **Divyanshi** — a Full Stack Developer, Data Scientist, AI/ML Enthusiast and Data Analyst passionate about building technology-driven solutions.
+I'm **Divyanshi**, a Full Stack Developer, Data Scientist, AI/ML Enthusiast and Data Analyst with a passion for building technology-driven solutions.
 
-I enjoy working across the entire development lifecycle, from designing intuitive user interfaces and developing robust backend systems to exploring machine learning models and extracting insights from data.
+My interests span across software engineering, artificial intelligence, machine learning, data analytics and entrepreneurship.
 
-I'm particularly interested in the intersection of Software Engineering, Artificial Intelligence, Data Science and innovation.
+I enjoy transforming ideas into functional applications, developing intelligent systems, extracting meaningful insights from data and exploring innovative solutions to real-world challenges.
 
-- 💻 Full Stack Development – Building functional, scalable web applications.
-- 🤖 AI/ML – Exploring intelligent systems and practical machine learning applications.
-- 📊 Data Science & Analytics – Working with data, patterns, predictive insights and visualization.
-- 🚀 Entrepreneurship – Founder of **OmniOps Digital**, a digital solutions and marketing agency.
-- 🏆 Innovation – Participating in competitive technical challenges and problem-solving initiatives.
-- 🌱 Always learning, experimenting and building.
+**What defines my journey:**
+
+- 💻 Full Stack Development – Designing and developing end-to-end applications.
+- 🤖 AI/ML – Exploring intelligent systems and machine learning applications.
+- 📊 Data Science & Analytics – Turning complex data into actionable insights.
+- 🚀 Entrepreneurship – Building and leading OmniOps Digital.
+- 🏆 Innovation – Participating in competitive technical challenges.
+- 🌱 Continuous learning, experimentation and building.
 
 ---
 
-## 🏆 Achievements & Recognition
-
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:134E4A,50:0F766E,100:134E4A&height=100&section=header&text=ENTREPRENEURSHIP%20%26%20LEADERSHIP&fontSize=23&fontColor=F5F0E6&fontAlignY=55"/>
+
+</div>
+
+# 🚀 FOUNDER — OMNIOPS DIGITAL
+
+### Building technology-driven digital solutions.
+
+I'm the **Founder of OmniOps Digital**, a digital solutions and marketing agency focused on helping businesses establish, strengthen and scale their digital presence.
+
+My entrepreneurial journey combines technology, creativity, strategic thinking and business development.
+
+At OmniOps Digital, I'm working towards building an integrated ecosystem of digital services, helping businesses bridge the gap between their ideas and digital execution.
+
+### What I'm building through OmniOps Digital
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%">
 
-<img src="https://img.shields.io/badge/AEROTHON-2026-2563EB?style=for-the-badge"/>
+### 💻 Technology & Development
+
+- Website Development
+- Full Stack Solutions
+- Custom Web Experiences
+- Business-Oriented Digital Solutions
+
+</td>
+<td width="50%">
+
+### 📈 Digital Growth & Strategy
+
+- Digital Marketing
+- Brand Development
+- Social Media Management
+- Performance Marketing
+- AI-Powered Automation
+
+</td>
+</tr>
+</table>
+
+### My entrepreneurial focus
+
+- Building and developing a digital solutions business from the ground up.
+- Understanding business requirements and translating them into practical solutions.
+- Combining technology with business strategy.
+- Exploring AI-powered workflows and automation.
+- Developing long-term client relationships and scalable service models.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FOUNDER-OMNIOPS%20DIGITAL-0F766E?style=for-the-badge&labelColor=101B19"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:134E4A,50:0F766E,100:134E4A&height=100&section=header&text=ACHIEVEMENTS%20%26%20RECOGNITION&fontSize=23&fontColor=F5F0E6&fontAlignY=55"/>
+
+</div>
+
+## 🏆 Competitive Achievements
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:134E4A,100:0F766E&height=110&text=AEROTHON%20%2726&fontSize=30&fontColor=F5F0E6&fontAlignY=45&desc=IIT%20INDORE%20%C3%97%20HAL&descSize=13&descColor=E8DFC9&descAlignY=75"/>
 
 <h2>🏅 FINALIST</h2>
 
-**IIT Indore × Hindustan Aeronautics Limited**
-
-Finalist at Aerothon '26, hosted at IIT Indore in collaboration with Hindustan Aeronautics Limited (HAL).
+Finalist at Aerothon '26, hosted at IIT Indore in collaboration with **Hindustan Aeronautics Limited (HAL)**.
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/ISRO-BAH%202026-7C3AED?style=for-the-badge"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:134E4A,100:0F766E&height=110&text=ISRO%20BAH%20%2726&fontSize=30&fontColor=F5F0E6&fontAlignY=45&desc=TOP%2010%20TEAMS&descSize=13&descColor=E8DFC9&descAlignY=75"/>
 
 <h2>🚀 TOP 10</h2>
-
-**ISRO BAH '26**
 
 Recognized among the Top 10 teams at ISRO BAH '26.
 
@@ -75,29 +131,9 @@ Recognized among the Top 10 teams at ISRO BAH '26.
 </tr>
 </table>
 
-</div>
-
 ---
 
-## 💼 Entrepreneurship
-
-### Founder – OmniOps Digital
-
-I'm the founder of **OmniOps Digital**, a digital solutions agency focused on helping businesses establish, strengthen and scale their digital presence.
-
-Through OmniOps Digital, I explore the intersection of technology, creativity, strategy and business growth.
-
-My entrepreneurial journey involves:
-
-- Digital strategy and brand development.
-- Website development and digital experiences.
-- Technology-driven business solutions.
-- AI-powered automation and marketing.
-- Building solutions around real business requirements.
-
----
-
-## ⚙️ Tech Stack & Expertise
+## ⚙️ TECHNICAL EXPERTISE
 
 ### Programming Languages
 
@@ -111,7 +147,7 @@ My entrepreneurial journey involves:
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,tailwind"/>
 </p>
 
-### AI / Machine Learning / Data Science
+### AI / Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv"/>
@@ -123,7 +159,7 @@ My entrepreneurial journey involves:
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase"/>
 </p>
 
-### Data Analytics & Visualization
+### Data Science & Analytics
 
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -140,7 +176,7 @@ My entrepreneurial journey involves:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
@@ -150,16 +186,17 @@ My entrepreneurial journey involves:
 
 AI-powered personal finance application focused on intelligent financial management and expense tracking.
 
-**Domain:** AI / FinTech
+`AI` `FinTech` `Full Stack`
 
 </td>
+
 <td width="50%">
 
 ### 🧬 PersonaTwin
 
-An AI-driven digital persona application exploring personalized intelligent interactions.
+AI-driven digital persona application exploring personalized intelligent interactions.
 
-**Domain:** AI / Software Engineering
+`AI` `Machine Learning` `Software`
 
 </td>
 </tr>
@@ -169,18 +206,19 @@ An AI-driven digital persona application exploring personalized intelligent inte
 
 ### 🔎 Veritas Lens
 
-A fake news detection and credibility analysis project exploring NLP and intelligent information verification.
+Fake news detection and credibility analysis using NLP and intelligent information verification.
 
-**Domain:** AI / NLP
+`NLP` `AI/ML` `Data Science`
 
 </td>
+
 <td width="50%">
 
 ### 🧠 NeuroSonic
 
 An intelligent technology project combining software development and AI concepts.
 
-**Domain:** AI / Software Engineering
+`AI` `Software Engineering`
 
 </td>
 </tr>
@@ -192,16 +230,17 @@ An intelligent technology project combining software development and AI concepts
 
 A financial technology application focused on market-related software solutions.
 
-**Domain:** FinTech
+`FinTech` `Software Development`
 
 </td>
+
 <td width="50%">
 
 ### 🚨 AI Crisis Early Warning
 
 An AI-based system designed around crisis detection and early warning.
 
-**Domain:** AI / Machine Learning
+`AI/ML` `Predictive Systems`
 
 </td>
 </tr>
@@ -210,61 +249,66 @@ An AI-based system designed around crisis detection and early warning.
 <div align="center">
 
 <a href="https://github.com/Divyanshi12coder?tab=repositories">
-
-<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-0F766E?style=for-the-badge&logo=github&logoColor=white&labelColor=101B19"/>
 </a>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📌 GITHUB ACTIVITY
+
+Explore my repositories, coding history and contributions directly on GitHub.
 
 <div align="center">
 
-<img src="https://ghstats.dev/api/card?username=Divyanshi12coder" width="90%" alt="GitHub Statistics"/>
+<a href="https://github.com/Divyanshi12coder?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore%20Projects-134E4A?style=for-the-badge&logo=github"/>
+</a>
 
-<br><br>
+<a href="https://github.com/Divyanshi12coder?tab=stars">
+<img src="https://img.shields.io/badge/Stars-View%20My%20Stars-0F766E?style=for-the-badge&logo=github"/>
+</a>
 
-<img src="https://ghstats.dev/api/languages?username=Divyanshi12coder&layout=donut&max_langs=8" width="90%" alt="Top Languages"/>
+<a href="https://github.com/Divyanshi12coder?tab=overview">
+<img src="https://img.shields.io/badge/Contributions-View%20Activity-134E4A?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshi12coder&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Activity"/>
-
-</div>
-
----
-
-## 🌐 Let's Connect
+## 🌐 CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/Divyanshi12coder">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-101B19?style=for-the-badge&logo=github&logoColor=F5F0E6"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-134E4A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
+---
+
+<div align="center">
+
+<h3>Innovate with purpose. Build with passion. Lead with vision.</h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:134E4A,100:101B19&height=130&section=footer"/>
+
+</div>
 ---
 
 <div align="center">
