@@ -17,7 +17,7 @@ Building intelligent applications, exploring data, and transforming ideas into p
 <p align="center">
 <a href="https://github.com/Divyanshi12coder">GitHub</a> ·
 <a href="https://www.linkedin.com/">LinkedIn</a> ·
-<a href="mailto:omniopsdigital@gmail.com">Email</a>
+<a href="mailto:divya1205g@gmail.com">Email</a>
 </p>
 
 ---
@@ -346,7 +346,7 @@ Building functional and scalable applications.
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-24584F?style=for-the-badge&logo=linkedin&logoColor=F5F1E7"/>
 </a>
-<a href="mailto:omniopsdigital@gmail.com">
+<a href="mailto:divya1205g@gmail.com">
 <img src="https://img.shields.io/badge/Email-173A35?style=for-the-badge&logo=gmail&logoColor=F5F1E7"/>
 </a>
 </p>
